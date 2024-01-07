@@ -27,11 +27,12 @@
 - Linearity: The independent variables and the dependent variables have a linear relation with each other.
 - Independence: The observation in the dataset are independent of each other.
 - Normality: The residuals sould be normally distributed, The residual must follow a bell-shaped curve. If the residual are not normally distributed, then the linear regression will not be an accurate model.
-  ######Disadvantages:
+  ###### Disadvantages:
   - It assumes that the relation is linear, many a times it needent be that the relation has to be linear, then, the model will not perform properly.
   - It is sensitive to multicollinearity.
   - It is susceptible to overfitting and underfitting.
-    - Overfittingp Model learns too well and fails to generalize to unseen data.
-    - Underfitting occurs whan the model is to simple to capture the underlying relationships in the  data 
+    - Overfitting Model learns too well and fails to generalize to unseen data.
+    - Underfitting occurs whan the model is to simple to capture the underlying relationships in the  data
+##### 
   
 
